@@ -1,0 +1,42 @@
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\bin\Debug\System controller.exe.config
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\bin\Debug\System controller.exe
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\bin\Debug\System controller.pdb
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System controller.csprojResolveAssemblyReference.cache
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System_controller.Properties.Resources.resources
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System controller.csproj.GenerateResource.Cache
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System controller.exe
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System controller.pdb
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\obj\Debug\System_controller.SystemController.resources
+C:\Users\Emile\Desktop\System controller\System controller\System controller\bin\Debug\System controller.exe.config
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System controller.exe
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System controller.pdb
+C:\Users\Emile\Desktop\System controller\System controller\System controller\bin\Debug\System controller.exe
+C:\Users\Emile\Desktop\System controller\System controller\System controller\bin\Debug\System controller.pdb
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System controller.csprojResolveAssemblyReference.cache
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System_controller.SystemController.resources
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System_controller.Properties.Resources.resources
+C:\Users\Emile\Desktop\System controller\System controller\System controller\obj\Debug\System controller.csproj.GenerateResource.Cache
+E:\stuff\System controller\System controller\System controller\System controller\bin\Debug\System controller.exe.config
+E:\stuff\System controller\System controller\System controller\System controller\obj\Debug\System controller.exe
+E:\stuff\System controller\System controller\System controller\System controller\obj\Debug\System controller.pdb
+E:\stuff\System controller\System controller\System controller\bin\Debug\System controller.exe.config
+E:\stuff\System controller\System controller\System controller\obj\Debug\System controller.exe
+E:\stuff\System controller\System controller\System controller\obj\Debug\System controller.pdb
+E:\stuff\System controller\System controller\System controller\bin\Debug\System controller.exe
+E:\stuff\System controller\System controller\System controller\bin\Debug\System controller.pdb
+E:\stuff\System controller\System controller\System controller\obj\Debug\System controller.csprojResolveAssemblyReference.cache
+E:\stuff\System controller\System controller\System controller\obj\Debug\System_controller.SystemController.resources
+E:\stuff\System controller\System controller\System controller\obj\Debug\System_controller.Properties.Resources.resources
+E:\stuff\System controller\System controller\System controller\obj\Debug\System controller.csproj.GenerateResource.Cache
+C:\Users\Emile\Desktop\System controller\System controller\System controller\System controller\bin\Debug\System controller.exe.config
+C:\Users\Emile\Desktop\System controller\System controller\System controller\System controller\obj\Debug\System controller.exe
+C:\Users\Emile\Desktop\System controller\System controller\System controller\System controller\obj\Debug\System controller.pdb
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\bin\Debug\System controller.exe.config
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System controller.exe
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System controller.pdb
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\bin\Debug\System controller.exe
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\bin\Debug\System controller.pdb
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System controller.csprojResolveAssemblyReference.cache
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System_controller.SystemController.resources
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System_controller.Properties.Resources.resources
+C:\Users\Emile\Desktop\Test Programs\System controller\System controller\System controller\System controller\System controller\obj\Debug\System controller.csproj.GenerateResource.Cache

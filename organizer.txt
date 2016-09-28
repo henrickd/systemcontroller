@@ -1,0 +1,8 @@
+15,16,17,18: fans 1,2,3,4 +
+19: fans 1,2,3,4 -
+25,26,27,28: fans 5,6,7,8 +
+29: fans 5,6,7,8 -
+12: fan 1 sense
+13: fan 2 sense
+
+color order: blue, red, green, +
